@@ -33,9 +33,13 @@ The Bingo chart file (b_chart.txt) should be formatted as follows:
 ## Example:
 
 B1,I1,N1,G1,O1
+
 B2,I2,X,G2,O2
+
 B3,I3,N3,G3,O3
+
 B4,I4,N4,G4,O4
+
 B5,I5,N5,G5,O5
 
 ## Output Description
